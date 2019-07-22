@@ -1,0 +1,6 @@
+projectKey=Inventario-crud-animales
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=Inventario-crud-animales
+ceTaskId=AWwbo5M7NUuDrag_WDZy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWwbo5M7NUuDrag_WDZy

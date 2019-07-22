@@ -7,5 +7,5 @@ exports.calcularNivel = function (articulo, libro, proyecto, acesor) {
     else if (articulo > 3 && libro > 0 && proyecto > 1 && acesor > 0)
         return 1
     else
-    return 0;
+        return 0;
 }
